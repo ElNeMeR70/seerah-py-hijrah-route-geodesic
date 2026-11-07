@@ -1,0 +1,7 @@
+[project]
+name = "seerah-py-hijrah-route-geodesic"
+version = "1.0.0"
+description = "Prophetic Hijrah Route Waypoint Geodesic & Elevation Profiler (محلل مسار الهجرة النبوية الشريفة الجغرافي والمراحل)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
